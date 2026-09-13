@@ -1,0 +1,9 @@
+# Dokumentation & Knowledge Base ausschließen
+.llm-wiki/
+Master.md
+
+# Verhindere, dass Jules sich alle Task-Dateien gleichzeitig zieht
+Task_*.md
+
+# Ausnahme: Aktiviere immer nur den Subtask, an dem er gerade arbeitet
+!Task_1.md
