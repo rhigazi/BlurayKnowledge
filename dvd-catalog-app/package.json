@@ -1,0 +1,15 @@
+{
+  "name": "bluray-knowledge",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/main/index.js",
+  "scripts": {
+    "dev": "echo \"Not implemented yet\"",
+    "build": "echo \"Not implemented yet\"",
+    "start": "echo \"Not implemented yet\"",
+    "package": "echo \"Not implemented yet\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
