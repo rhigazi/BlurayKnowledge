@@ -1,6 +1,7 @@
 # Dokumentation & Knowledge Base ausschließen
 .llm-wiki/
 Master.md
+agent.md
 
 # Verhindere, dass Jules sich alle Task-Dateien gleichzeitig zieht
 Task_*.md
